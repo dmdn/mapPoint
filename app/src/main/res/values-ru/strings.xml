@@ -1,0 +1,81 @@
+<resources>
+
+    <string name="app_name">Map Point</string>
+
+    <string name="nav_menu_item_map">Положение на карте</string>
+    <string name="nav_menu_item_position">Сохраненные позиции на карте</string>
+    <string name="nav_menu_item_data">Сохраненные данные</string>
+    <string name="nav_menu_item_settings">Настройки</string>
+    <string name="nav_menu_item_deleteDB">Удалить всё</string>
+    <string name="nav_menu_other">Дополнение</string>
+
+    <string name="format_time">%1$tF  %1$tT</string>
+    <string name="format_lat">Широта: %1$.4f</string>
+    <string name="format_lon">Долгота: %1$.4f</string>
+
+    <string name="alert_error_1">Нет сохраненных записей</string>
+    <string name="alert_error_2">Записи не доступны</string>
+
+    <string name="database_unavailable">Данные недоступны</string>
+    <string name="select_string_change">Выбирете строку для изменения</string>
+    <string name="deleting">Все записи удалены</string>
+    <string name="list_dialog_title">Группы точек на карте</string>
+    <string name="no_saved_record">Нет сохраненных записей</string>
+    <string name="action_edit_db_1">Заполните поле "Группа"</string>
+    <string name="action_edit_db_2">Заполните поле "Точка"</string>
+    <string name="action_edit_db_3">Заполните поля "Группа" и "Точка"</string>
+    <string name="recording_saved">Запись сохранена</string>
+    <string name="action_edit_db_string">Строка в записи изменена</string>
+    <string name="action_delete_db_string">Строка в записи удалена</string>
+    <string name="alert_location_title">Геолокация отключена</string>
+    <string name="alert_location_message">Включить геолокацию?</string>
+    <string name="alert_location_btn_cancel">Отмена</string>
+    <string name="alert_location_btn_ok">Включить</string>
+    <string name="cancel">Отмена</string>
+    <string name="coordinates">Координаты</string>
+    <string name="provider_1">Провайдер не работает</string>
+    <string name="provider_2">Провайдер не доступен</string>
+    <string name="provider_3">Провайдер доступен</string>
+    <string name="provider_off">Провайдер выключен</string>
+    <string name="provider_on">Провайдер включен</string>
+    <string name="check_box_checked">Выбранна строка</string>
+    <string name="check_box_checked_off">Выбор отменен</string>
+    <string name="im_here">Я здесь</string>
+
+    <string name="group">Группа</string>
+    <string name="point">Точка</string>
+    <string name="description">Примечание</string>
+    <string name="edit_data">Изменение записей</string>
+    <string name="saving_data">Сохранение записей</string>
+    <string name="autorenew_db">Обновить данные</string>
+    <string name="date">Дата:</string>
+    <string name="lon">Долгота:</string>
+    <string name="lat">Широта:</string>
+    <string name="point_n">Точка №:</string>
+    <string name="group2">Для выбора предыдущей группы - длительное нажатие</string>
+    <string name="save_coordinate">Сохранить координаты</string>
+    <string name="save">Сохранить запись</string>
+    <string name="clear_form">Очистить форму</string>
+    <string name="delete_string_db">Удалить строку</string>
+    <string name="menu_edit_string">Изменить строку записи</string>
+    <string name="nav_menu_item_gps">Положение по провайдеру</string>
+
+
+    <string name="pref_title_map_type">Тип карты</string>
+    <string name="pref_key_map_type">pref_key_map_type</string>
+    <string name="pref_default_map_type">scheme</string>
+
+    <string-array name="pref_map_type_values">
+        <item>scheme</item>
+        <item>satellite</item>
+        <item>terrain</item>
+    </string-array>
+
+    <string-array name="pref_map_type_titles">
+        <item>Схема</item>
+        <item>Спутник</item>
+        <item>Рельеф</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cv">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#e3e3e3"
+        android:padding="10dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:id="@+id/img_point"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="16dp"
+            android:layout_alignParentStart="false" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/group_item"
+            android:layout_toRightOf="@+id/img_point"
+            android:layout_alignParentTop="true"
+            android:textColor="#243137"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/item"
+            android:textColor="#d64612"
+            android:textSize="20sp"
+            android:layout_alignBottom="@+id/img_point"
+            android:layout_alignStart="@+id/group_item" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/description"
+            android:textColor="#666666"
+            android:layout_marginTop="5dp"
+            android:layout_below="@+id/item"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvDate"
+            android:textColor="#3f51b5"
+            android:layout_below="@+id/checkBox"
+            android:layout_alignEnd="@+id/description" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#689f38"
+            android:id="@+id/tvIdDB"
+            android:layout_alignParentTop="true"
+            android:layout_toStartOf="@+id/checkBox" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkBox"
+            android:layout_alignTop="@+id/group_item"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="false"
+            android:allowUndo="false"
+            android:checked="false"
+            android:theme="@style/MyCheckButton"
+            android:paddingRight="5dp" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>
+
+    <LinearLayout
+        android:layout_below="@+id/toolbar"
+        android:layout_alignParentStart="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/tvId_dialogDB"
+            android:textColor="#999999"
+            android:layout_gravity="right" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etGroup_dialogDB"
+            android:textColor="#ffffff"
+            android:hint="@string/group"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etItem_dialogDB"
+            android:inputType="number"
+            android:textColor="#ffffff"
+            android:hint="@string/point"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etDescription_dialogDB"
+            android:textColor="#ffffff"
+            android:inputType="textMultiLine"
+            android:gravity="top"
+            android:lines="2"
+            android:hint="@string/description"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

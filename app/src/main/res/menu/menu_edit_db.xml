@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".EditDBActivity">
+
+    <item
+        android:id="@+id/action_edit_db"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:orderInCategory="1"
+        android:title="@string/menu_edit_string"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_delete_string_db"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="2"
+        android:title="@string/delete_string_db"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_canсel"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:orderInCategory="3"
+        android:title="@string/cancel"
+        app:showAsAction="always" />
+
+</menu>
