@@ -29,6 +29,6 @@ App language: English, Russian (depends on the device locale).
 ![screenshot 21](https://cloud.githubusercontent.com/assets/19373990/25579773/70ef2a12-2e83-11e7-92a6-65862d2fa2c5.png)
 
 ![ic_launcher](https://cloud.githubusercontent.com/assets/19373990/25580295/8573fff8-2e88-11e7-99a4-689fb1f41d85.png)
-[Download APP in aAPK](https://drive.google.com/file/d/0B_FuLrEepxSsYWRoVHFIZERGMjA/view?usp=sharing)
+[Download APP in APK](https://drive.google.com/file/d/0B_FuLrEepxSsYWRoVHFIZERGMjA/view?usp=sharing)
 
 [Screenshots MapPoint APP in PDF](https://drive.google.com/file/d/0B_FuLrEepxSsS0dYMEJFcGZoOGc/view?usp=sharing)
