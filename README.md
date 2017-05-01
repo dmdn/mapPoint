@@ -16,6 +16,7 @@ App language: English, Russian (depends on the device locale).
 + Android geolocation (GPS)
 + Databases (SQLite)
 + App Localization
++ AlertDialog
 
 ![screenshot 02](https://cloud.githubusercontent.com/assets/19373990/25579766/70c523e8-2e83-11e7-9625-e2d4017525cf.png)
 ![screenshot 03](https://cloud.githubusercontent.com/assets/19373990/25579765/70c52168-2e83-11e7-96a3-5d6b9a8780d7.png)
