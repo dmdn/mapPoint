@@ -32,4 +32,4 @@ App language: English, Russian (depends on the device locale).
 ![ic_launcher](https://cloud.githubusercontent.com/assets/19373990/25580295/8573fff8-2e88-11e7-99a4-689fb1f41d85.png)
 [Download APP in APK](https://drive.google.com/file/d/0B_FuLrEepxSsYWRoVHFIZERGMjA/view?usp=sharing)
 
-[Screenshots MapPoint APP in PDF](https://drive.google.com/file/d/0B_FuLrEepxSsS0dYMEJFcGZoOGc/view?usp=sharing)
+[Screenshots MapPoint APP in PDF](https://drive.google.com/file/d/0B_FuLrEepxSsckNPOWZ1c2R4NzQ/view?usp=sharing)
