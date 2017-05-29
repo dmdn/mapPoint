@@ -1,11 +1,11 @@
 # Project Description
-The project is made as an educational one.
+The project is created as an educational one.
 
-The application stores points with coordinates, date and description in the group. The application can be used for travel or work related to visiting objects and recording information about a visit. The result is saved and displayed. It is possible to output the result to the saved groups and display them on the map.
+The application stores points with coordinates, date and description in the group. The application can be used for travel or work related purposes. It is helpful for recording information about a visit. The result is saved and viewed. It is also possible to output result to the saved groups and display them on the map.
 
 App language: English, Russian (depends on the device locale).
 
-### Basic skills that were used in the project
+### Basic skills that were used for the project creation
 + Toolbar Menu Android
 + CardView
 + Material Design
