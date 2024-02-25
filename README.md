@@ -1,4 +1,5 @@
-# Project Description
+# MapPoint
+## Project Description
 The project is created as an educational one.
 
 The application stores points with coordinates, date and description in the group. The application can be used for travel or work related purposes. It is helpful for recording information about a visit. The result is saved and viewed. It is also possible to output result to the saved groups and display them on the map.
