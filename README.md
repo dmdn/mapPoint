@@ -35,5 +35,4 @@ App language: English, Russian (depends on the device locale).
 ### App version
 + APP version 1.0: installation file `.apk` can be found in `./storage/map_point_1.0.apk`
 
-More screenshots can be found in `./storage/MapPoint_screenshots.pdf`:
-[Screenshots MapPoint APP in PDF](storage/MapPoint_screenshots.pdf)
+More screenshots can be found in [storage/MapPoint_screenshots.pdf](storage/MapPoint_screenshots.pdf)
