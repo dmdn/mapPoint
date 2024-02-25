@@ -1,4 +1,4 @@
-# MapPoint
+# MapPoint (Android)
 ## Project Description
 The project is created as an educational one.
 
