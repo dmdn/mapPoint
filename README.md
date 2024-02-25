@@ -30,6 +30,9 @@ App language: English, Russian (depends on the device locale).
 ![screenshot 21](https://cloud.githubusercontent.com/assets/19373990/25579773/70ef2a12-2e83-11e7-92a6-65862d2fa2c5.png)
 
 ![ic_launcher](https://cloud.githubusercontent.com/assets/19373990/25580295/8573fff8-2e88-11e7-99a4-689fb1f41d85.png)
-[Download APP in APK](https://drive.google.com/file/d/0B_FuLrEepxSsYWRoVHFIZERGMjA/view?usp=sharing)
 
-[Screenshots MapPoint APP in PDF](https://drive.google.com/file/d/0B_FuLrEepxSsckNPOWZ1c2R4NzQ/view?usp=sharing)
+### App version
++ APP version 1.0: installation file `.apk` can be found in `./storage/map_point_1.0.apk`
+
+More screenshots can be found in `./storage/MapPoint_screenshots.pdf`:
+[Screenshots MapPoint APP in PDF](storage/MapPoint_screenshots.pdf)
