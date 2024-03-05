@@ -37,4 +37,4 @@ App language: English, Russian (depends on the device locale).
 
 More screenshots can be found in [storage/MapPoint_screenshots.pdf](storage/MapPoint_screenshots.pdf).
 
-Note: The application was created in 2017.
+Note: The application was created in 2017
